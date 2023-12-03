@@ -37,11 +37,17 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
 # Directory Tree
 ├── templates 
+
 │   └── index.html
+
 ├── app.py
+
 ├── credit-card-default.csv
+
 ├── credit_default_prediction.py
+
 ├── model.pkl
+
 ├── Procfile
 ├── README.md
 ├── HLD document
