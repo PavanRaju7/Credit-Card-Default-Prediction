@@ -49,13 +49,21 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ├── model.pkl
 
 ├── Procfile
+
 ├── README.md
+
 ├── HLD document
+
 ├── LLD Document
+
 ├── Detailed Description Presentation
+
 ├── log file
+
 ├── wireframe pdf
+
 ├── README.md
+
 └── requirements.txt
 
 # Credits
