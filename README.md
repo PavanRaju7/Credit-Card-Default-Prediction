@@ -36,21 +36,21 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 # pip install -r requirements.txt
 
 # Directory Tree
- ├── templates 
- │   └── index.html
- ├── app.py
- ├── credit-card-default.csv
- ├── credit_default_prediction.py
- ├── model.pkl
- ├── Procfile
- ├── README.md
- ├── HLD document
- ├── LLD Document
- ├── Detailed Description Presentation
- ├── log file
- ├── wireframe pdf
- ├── README.md
- └── requirements.txt
+├── templates 
+│   └── index.html
+├── app.py
+├── credit-card-default.csv
+├── credit_default_prediction.py
+├── model.pkl
+├── Procfile
+├── README.md
+├── HLD document
+├── LLD Document
+├── Detailed Description Presentation
+├── log file
+├── wireframe pdf
+├── README.md
+└── requirements.txt
 
 # Credits
 The datasets has been provided by Kaggle. The original dataset can be found here at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
